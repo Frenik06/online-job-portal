@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Demo Job Seeker",
+        "email": "seeker@example.com",
+        "password": "123456",
+        "role": "seeker"
+    },
+    {
+        "id": 2,
+        "name": "Demo Job Giver",
+        "email": "giver@example.com",
+        "password": "123456",
+        "role": "giver"
+    }
+]

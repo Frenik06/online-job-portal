@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "job_id": 1,
+        "name": "frenik",
+        "email": "freniksmangukiya1954@gmail.com",
+        "phone": "2342342342",
+        "education": "ca",
+        "skills": "javascript",
+        "message": "ugdafghsjdgfjsdfsd",
+        "applied_at": "2026-04-29 19:28:31",
+        "seeker_id": 1,
+        "status": "Interview Scheduled",
+        "interview_date": "2026-04-22",
+        "interview_time": "17:00",
+        "interview_mode": "Online",
+        "interview_note": "jksgfjshd"
+    },
+    {
+        "id": 2,
+        "job_id": 2,
+        "seeker_id": 1,
+        "name": "Demo Job Seeker",
+        "email": "seeker@example.com",
+        "phone": "jhsgdjad",
+        "education": "jasdjsad",
+        "skills": "sdasjdasjkd",
+        "message": "sjdajkdnasdsad",
+        "status": "Applied",
+        "interview_date": "",
+        "interview_time": "",
+        "interview_mode": "",
+        "interview_note": "",
+        "applied_at": "2026-04-29 19:48:45"
+    }
+]

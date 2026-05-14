@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "manager",
+        "company": "ABCDEFGHI",
+        "location": "surat",
+        "type": "Full Time",
+        "salary": "5-7 lpa",
+        "skills": "javascript",
+        "description": "sdjfkasdhfjsdfhsdkfhasdfk",
+        "giver_id": 2
+    },
+    {
+        "id": 2,
+        "giver_id": 2,
+        "title": "iHR",
+        "company": "sagfuiadgf",
+        "location": "hdasdgf",
+        "type": "Internship",
+        "salary": "85",
+        "skills": "ijfdd",
+        "description": "dfjkhsjdf"
+    }
+]
