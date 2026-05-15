@@ -11,9 +11,9 @@ $applications = get_applications_for_seeker($user['id']);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Job Seeker Dashboard - CareerConnect</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=20260515">
 </head>
-<body>
+<body class="dashboard-page seeker-page">
     <header class="page-header">
         <nav class="navbar">
             <a class="logo" href="index.php">CareerConnect</a>

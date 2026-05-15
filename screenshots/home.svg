@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">CareerConnect home page screenshot preview</title>
+  <desc id="desc">A preview of the CareerConnect home page with navigation, hero content, stats, filters, and job cards.</desc>
+  <rect width="1200" height="760" fill="#f4f5f7"/>
+  <rect width="1200" height="300" fill="#ffffff"/>
+  <line x1="0" y1="300" x2="1200" y2="300" stroke="#d9dee7"/>
+  <text x="72" y="58" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">CareerConnect</text>
+  <text x="770" y="56" fill="#3b424c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Jobs</text>
+  <text x="835" y="56" fill="#3b424c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Seeker Login</text>
+  <text x="960" y="56" fill="#3b424c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Giver Login</text>
+  <text x="1080" y="56" fill="#3b424c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Register</text>
+  <text x="72" y="124" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">ONLINE JOB PORTAL PROTOTYPE</text>
+  <text x="72" y="178" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800">Two-side job portal for</text>
+  <text x="72" y="232" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800">seekers and job givers.</text>
+  <text x="72" y="270" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="18">Apply, track applications, post openings, and schedule interviews.</text>
+  <rect x="808" y="102" width="300" height="164" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <text x="834" y="159" fill="#2563eb" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800">6</text>
+  <text x="834" y="188" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="16">Active job openings</text>
+  <text x="834" y="239" fill="#2563eb" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800">12</text>
+  <text x="898" y="239" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="16">Applications received</text>
+  <rect x="72" y="342" width="1056" height="342" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <text x="106" y="394" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">JOB LISTING MODULE</text>
+  <text x="106" y="438" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Available Jobs</text>
+  <rect x="106" y="468" width="710" height="46" rx="6" fill="#ffffff" stroke="#cfd6e1"/>
+  <text x="126" y="497" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="15">Search by title, company, location, or skills</text>
+  <rect x="838" y="468" width="226" height="46" rx="6" fill="#ffffff" stroke="#cfd6e1"/>
+  <text x="858" y="497" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="15">All Job Types</text>
+  <rect x="106" y="546" width="300" height="100" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <rect x="126" y="566" width="74" height="24" rx="12" fill="#eef2ff"/>
+  <text x="139" y="583" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800">Full Time</text>
+  <text x="126" y="620" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">PHP Developer</text>
+  <text x="126" y="642" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">TechNova Solutions</text>
+  <rect x="450" y="546" width="300" height="100" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <rect x="470" y="566" width="82" height="24" rx="12" fill="#eef2ff"/>
+  <text x="484" y="583" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800">Internship</text>
+  <text x="470" y="620" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">UI Designer</text>
+  <text x="470" y="642" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">PixelWorks Studio</text>
+  <rect x="794" y="546" width="300" height="100" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <rect x="814" y="566" width="74" height="24" rx="12" fill="#eef2ff"/>
+  <text x="827" y="583" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800">Part Time</text>
+  <text x="814" y="620" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Data Analyst</text>
+  <text x="814" y="642" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">Insight Labs</text>
+</svg>

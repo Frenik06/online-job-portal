@@ -25,28 +25,46 @@ A full-stack PHP and MySQL web application for managing job listings, applicatio
 - XAMPP / Apache
 - PDO for database connection
 
+## Screenshots
+
+### Home Page
+
+![CareerConnect home page](screenshots/home.svg)
+
+### Job Seeker Dashboard
+
+![Job seeker dashboard](screenshots/seeker-dashboard.svg)
+
+### Job Giver Dashboard
+
+![Job giver dashboard](screenshots/giver-dashboard.svg)
+
 ## Project Structure
 
 ```text
 online-job-portal/
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── data/
-│   ├── applications.json
-│   ├── jobs.json
-│   └── users.json
-├── database.sql
-├── db.php
-├── functions.php
-├── index.php
-├── login.php
-├── register.php
-├── logout.php
-├── seeker_dashboard.php
-├── giver_dashboard.php
-└── DATABASE_SETUP.md
++-- css/
+|   +-- style.css
++-- js/
+|   +-- script.js
++-- data/
+|   +-- applications.json
+|   +-- jobs.json
+|   +-- users.json
++-- screenshots/
+|   +-- home.svg
+|   +-- seeker-dashboard.svg
+|   +-- giver-dashboard.svg
++-- database.sql
++-- db.php
++-- functions.php
++-- index.php
++-- login.php
++-- register.php
++-- logout.php
++-- seeker_dashboard.php
++-- giver_dashboard.php
++-- DATABASE_SETUP.md
 ```
 
 ## Installation

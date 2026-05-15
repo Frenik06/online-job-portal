@@ -28,10 +28,36 @@ body {
     line-height: 1.55;
 }
 
+.home-page {
+    background: #f4f5f7;
+    color: var(--ink);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dashboard-page {
+    background: #f4f5f7;
+    color: var(--ink);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.home-page .hero,
+.home-page main,
+.home-page .panel,
+.home-page .hero-card,
+.home-page .job-card,
+.dashboard-page .page-header,
+.dashboard-page main,
+.dashboard-page .panel,
+.dashboard-page .mini-stat,
+.dashboard-page .application-item,
+.dashboard-page .schedule-form {
+    background-image: none;
+}
+
 .hero {
     background: #ffffff;
     border-bottom: 1px solid var(--line);
-    padding: 22px clamp(18px, 5vw, 72px) 56px;
+    padding: 22px clamp(18px, 5vw, 72px) 34px;
 }
 
 .navbar,
@@ -47,7 +73,8 @@ footer {
     display: flex;
     gap: 20px;
     justify-content: space-between;
-    margin-bottom: 52px;
+    margin: 0 auto 42px;
+    max-width: 1056px;
 }
 
 .logo {
@@ -61,7 +88,7 @@ footer {
 .role-switch {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 24px;
 }
 
 .nav-links a {
@@ -83,6 +110,8 @@ footer {
     display: grid;
     gap: 36px;
     grid-template-columns: minmax(0, 1.45fr) 300px;
+    margin: 0 auto;
+    max-width: 1056px;
 }
 
 .eyebrow {
@@ -102,8 +131,27 @@ h3 {
 }
 
 h1 {
-    font-size: clamp(2.1rem, 5vw, 4.2rem);
-    max-width: 850px;
+    font-size: clamp(2.35rem, 5vw, 3.05rem);
+    max-width: 700px;
+}
+
+.home-page h1,
+.home-page h2,
+.home-page h3,
+.home-page .logo,
+.home-page .nav-links a,
+.dashboard-page h1,
+.dashboard-page h2,
+.dashboard-page h3,
+.dashboard-page .logo,
+.dashboard-page .nav-links a,
+.dashboard-page table,
+.dashboard-page input,
+.dashboard-page select,
+.dashboard-page textarea,
+.dashboard-page button {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0;
 }
 
 h2 {
@@ -113,8 +161,12 @@ h2 {
 .hero-text,
 .small-copy {
     color: var(--muted);
-    font-size: 1.02rem;
+    font-size: 1.08rem;
     max-width: 640px;
+}
+
+.hero-text {
+    margin: 0;
 }
 
 .small-copy {
@@ -134,6 +186,15 @@ dialog,
 
 .hero-card {
     padding: 24px;
+}
+
+.hero-card p {
+    color: var(--muted);
+    margin: 6px 0 22px;
+}
+
+.hero-card p:last-child {
+    margin-bottom: 0;
 }
 
 .hero-card span,
@@ -177,7 +238,7 @@ dialog,
 }
 
 main {
-    padding: 34px clamp(18px, 5vw, 72px) 70px;
+    padding: 42px clamp(18px, 5vw, 72px) 70px;
 }
 
 .alert {
@@ -204,7 +265,7 @@ main {
 
 .panel {
     margin: 0 auto 28px;
-    max-width: 1180px;
+    max-width: 1056px;
     padding: clamp(20px, 4vw, 34px);
 }
 
@@ -215,8 +276,8 @@ main {
 .filters {
     display: grid;
     gap: 12px;
-    grid-template-columns: 1fr 220px;
-    margin-bottom: 20px;
+    grid-template-columns: minmax(0, 1fr) 226px;
+    margin-bottom: 32px;
 }
 
 input,
@@ -255,6 +316,11 @@ textarea:focus {
 .job-card {
     display: grid;
     gap: 7px;
+    min-height: 100px;
+}
+
+.job-card p {
+    margin: 0;
 }
 
 .job-topline {
@@ -360,9 +426,46 @@ footer {
     z-index: 1;
 }
 
+.dashboard-page .page-header > div {
+    margin: 0 auto;
+    max-width: 1056px;
+}
+
 .page-header h1 {
-    font-size: clamp(2rem, 5vw, 3.6rem);
+    font-size: clamp(2.35rem, 5vw, 3.05rem);
     max-width: 900px;
+}
+
+.dashboard-page .stats-grid,
+.dashboard-page .split-section,
+.dashboard-page .panel {
+    max-width: 1056px;
+}
+
+.dashboard-page .mini-stat {
+    border-radius: 6px;
+    padding: 24px;
+}
+
+.dashboard-page .mini-stat p {
+    color: var(--muted);
+    margin: 6px 0 0;
+}
+
+.dashboard-page .panel {
+    border-radius: 6px;
+}
+
+.dashboard-page .application-item {
+    border-radius: 6px;
+}
+
+.dashboard-page table {
+    background: #fff;
+}
+
+.dashboard-page th {
+    color: #374151;
 }
 
 .auth-body {

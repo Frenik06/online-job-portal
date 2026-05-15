@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">CareerConnect job seeker dashboard screenshot preview</title>
+  <desc id="desc">A preview of the job seeker dashboard with stats and an application tracker table.</desc>
+  <rect width="1200" height="760" fill="#f4f5f7"/>
+  <rect width="1200" height="260" fill="#ffffff"/>
+  <line x1="0" y1="260" x2="1200" y2="260" stroke="#d9dee7"/>
+  <text x="72" y="58" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800">CareerConnect</text>
+  <text x="930" y="56" fill="#3b424c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Browse Jobs</text>
+  <text x="1060" y="56" fill="#3b424c" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Logout</text>
+  <text x="72" y="124" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">JOB SEEKER DASHBOARD</text>
+  <text x="72" y="182" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800">Welcome, Demo Seeker</text>
+  <text x="72" y="222" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="18">Track applied jobs and interview updates from employers.</text>
+  <rect x="72" y="306" width="330" height="116" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <text x="96" y="366" fill="#2563eb" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800">5</text>
+  <text x="96" y="398" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="16">Total Applications</text>
+  <rect x="435" y="306" width="330" height="116" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <text x="459" y="366" fill="#2563eb" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800">2</text>
+  <text x="459" y="398" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="16">Interviews Scheduled</text>
+  <rect x="798" y="306" width="330" height="116" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <text x="822" y="366" fill="#2563eb" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800">3</text>
+  <text x="822" y="398" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="16">Waiting Response</text>
+  <rect x="72" y="456" width="1056" height="224" rx="6" fill="#ffffff" stroke="#d9dee7"/>
+  <text x="106" y="508" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">MY APPLICATIONS</text>
+  <text x="106" y="552" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Application Tracker</text>
+  <line x1="106" y1="590" x2="1094" y2="590" stroke="#d9dee7"/>
+  <text x="126" y="620" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">JOB</text>
+  <text x="352" y="620" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">COMPANY</text>
+  <text x="570" y="620" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">STATUS</text>
+  <text x="748" y="620" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">INTERVIEW</text>
+  <text x="978" y="620" fill="#374151" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="800">APPLIED ON</text>
+  <text x="126" y="656" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="14">PHP Developer</text>
+  <text x="352" y="656" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="14">TechNova</text>
+  <rect x="570" y="638" width="142" height="26" rx="13" fill="#eef2ff"/>
+  <text x="585" y="656" fill="#1d4ed8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="800">Interview Scheduled</text>
+  <text x="748" y="656" fill="#222831" font-family="Arial, Helvetica, sans-serif" font-size="14">2026-05-22 at 10:30</text>
+  <text x="978" y="656" fill="#69707a" font-family="Arial, Helvetica, sans-serif" font-size="14">2026-05-14</text>
+</svg>

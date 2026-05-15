@@ -24,9 +24,9 @@ $myApplications = get_applications_for_giver($user['id']);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Job Giver Dashboard - CareerConnect</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=20260515">
 </head>
-<body>
+<body class="dashboard-page giver-page">
     <header class="page-header">
         <nav class="navbar">
             <a class="logo" href="index.php">CareerConnect</a>
